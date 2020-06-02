@@ -19,17 +19,17 @@
       "id": 2,
       "title": "About us",
       "url" : "/about"
-    }
+    },
     {
       "id": 3,
       "title": "Product List",
       "url" : "/plp"
-    }
+    },
     {
       "id": 4,
       "title": "My Account",
       "url" : "/my-account"
-    }
+    },
     {
       "id": 5,
       "title": "Contact us",
